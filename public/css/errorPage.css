@@ -1,0 +1,14 @@
+div h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-align: center;
+    color:white;
+    text-decoration: none;
+    width: 100px;
+    height: 50px;
+    background-color: rgba(99, 99, 247, 0.837);
+    border-radius: 10px;
+}
